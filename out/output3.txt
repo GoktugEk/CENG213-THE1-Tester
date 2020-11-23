@@ -1,1 +1,77 @@
-00
+# Printing the social network ...
+# Number of profiles is 0:
+Printing the linked list ...
+empty
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+
+# Printing the social network ...
+# Number of profiles is 0:
+Printing the linked list ...
+empty
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+
+# Printing the social network ...
+# Number of profiles is 7:
+Printing the linked list ...
+firstname: BOLUMU lastname: EE email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: []
+firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [] likes: [] posts: []
+firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [] likes: [] posts: []
+firstname: ucoluk lastname: gokturk email: gokturk.ucoluk@metu.edu.tr friends: [] likes: [] posts: []
+firstname: arpali lastname: onur yigit email: onuryigitarpalininmaili friends: [] likes: [] posts: []
+firstname: varli lastname: yigit email: yigit.varli@metu.edu.tr friends: [] likes: [] posts: []
+firstname: varli lastname: yigithan email: yıgıthan@kahve.metu.edu.tr friends: [] likes: [] posts: []
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+
+Printing the linked list ...
+empty
+Printing the linked list ...
+empty
+# Printing the social network ...
+# Number of profiles is 7:
+Printing the linked list ...
+firstname: BOLUMU lastname: EE email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: [1]
+firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [] likes: [] posts: [3, 4]
+firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [] likes: [] posts: []
+firstname: ucoluk lastname: gokturk email: gokturk.ucoluk@metu.edu.tr friends: [] likes: [] posts: [5]
+firstname: arpali lastname: onur yigit email: onuryigitarpalininmaili friends: [] likes: [] posts: [2]
+firstname: varli lastname: yigit email: yigit.varli@metu.edu.tr friends: [] likes: [] posts: [6]
+firstname: varli lastname: yigithan email: yıgıthan@kahve.metu.edu.tr friends: [] likes: [] posts: []
+# Number of posts is 6:
+Printing the linked list ...
+message: all we can do is office hours postId: 1
+message: I AGREE WITH ONLY DISCUSSION PART OF THE FEEDBACK! postId: 2
+message: cengden yigit varli hocam musaitseniz bi ara kahve icebilir miyiz postId: 3
+message: reload yapmam, shifte basmam postId: 4
+message: kac farkli okuma sekli biliyorsunuz da scanf disinda okuyacaksiniz postId: 5
+message: 6 da yattım 6:15 te kalktım postId: 6
+# Printing is done.
+
+2
+# Printing the social network ...
+# Number of profiles is 7:
+Printing the linked list ...
+firstname: BOLUMU lastname: EE email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: [1]
+firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [] likes: [] posts: [3, 4]
+firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [] likes: [] posts: []
+firstname: ucoluk lastname: gokturk email: gokturk.ucoluk@metu.edu.tr friends: [] likes: [] posts: [5]
+firstname: arpali lastname: onur yigit email: onuryigitarpalininmaili friends: [] likes: [] posts: [2]
+firstname: varli lastname: yigit email: yigit.varli@metu.edu.tr friends: [] likes: [5, 3] posts: [6]
+firstname: varli lastname: yigithan email: yıgıthan@kahve.metu.edu.tr friends: [] likes: [] posts: []
+# Number of posts is 6:
+Printing the linked list ...
+message: all we can do is office hours postId: 1
+message: I AGREE WITH ONLY DISCUSSION PART OF THE FEEDBACK! postId: 2
+message: cengden yigit varli hocam musaitseniz bi ara kahve icebilir miyiz postId: 3
+message: reload yapmam, shifte basmam postId: 4
+message: kac farkli okuma sekli biliyorsunuz da scanf disinda okuyacaksiniz postId: 5
+message: 6 da yattım 6:15 te kalktım postId: 6
+# Printing is done.
