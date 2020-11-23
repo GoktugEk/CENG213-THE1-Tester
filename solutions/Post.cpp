@@ -36,7 +36,15 @@ std::ostream &operator<<(std::ostream &os, const Post &post) {
 }
 
 bool Post::operator==(const Post &rhs) const {
-    /* TODO */
+    if(rhs.postId == this->postId && rhs.message.length() == this->message.length()){
+        for (int i = 0; i < rhs.message.length(); ++i) {
+            if (rhs.message.at(i) != this->message.at(i)){
+                return false;
+            }
+        }
+        return true;
+    }
+    else return false;
 }
 
 bool Post::operator!=(const Post &rhs) const {
@@ -44,7 +52,7 @@ bool Post::operator!=(const Post &rhs) const {
 }
 
 bool Post::operator<(const Post &rhs) const {
-    /* TODO */
+    return this->postId < rhs.postId;
 }
 
 bool Post::operator>(const Post &rhs) const {
