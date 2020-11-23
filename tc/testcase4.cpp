@@ -35,8 +35,6 @@ int main() {
 
     snetwork.makeFriends("goktug.ekinci@metu.edu.tr", "alperen.keles@metu.edu.tr");
 
-    snetwork.makeFriends("goktug.ekinci@metu.edu.tr", "alperen.keles@metu.edu.tr");
-
     snetwork.makeFriends("alperen.keles@metu.edu.tr", "yigit.varli@metu.edu.tr");
 
     snetwork.makeFriends("alperen.keles@metu.edu.tr",  "gokcan.demiralp@metu.edu.tr");
