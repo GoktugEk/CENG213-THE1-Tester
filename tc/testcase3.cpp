@@ -25,7 +25,7 @@ int main() {
 
     snetwork.addProfile("ekinci","goktug", "goktug.ekinci@metu.edu.tr");
 
-    snetwork.addProfile("BOLUMU","EE", "EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM");
+    snetwork.addProfile("bolumu","ee", "EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM");
 
     snetwork.addProfile("ucoluk", "gokturk", "gokturk.ucoluk@metu.edu.tr");
     

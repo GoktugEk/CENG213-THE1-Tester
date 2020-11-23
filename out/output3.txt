@@ -19,7 +19,7 @@ empty
 # Printing the social network ...
 # Number of profiles is 7:
 Printing the linked list ...
-firstname: BOLUMU lastname: EE email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: []
+firstname: bolumu lastname: ee email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: []
 firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [] likes: [] posts: []
 firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [] likes: [] posts: []
 firstname: ucoluk lastname: gokturk email: gokturk.ucoluk@metu.edu.tr friends: [] likes: [] posts: []
@@ -38,7 +38,7 @@ empty
 # Printing the social network ...
 # Number of profiles is 7:
 Printing the linked list ...
-firstname: BOLUMU lastname: EE email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: [1]
+firstname: bolumu lastname: ee email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: [1]
 firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [] likes: [] posts: [3, 4]
 firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [] likes: [] posts: []
 firstname: ucoluk lastname: gokturk email: gokturk.ucoluk@metu.edu.tr friends: [] likes: [] posts: [5]
@@ -59,7 +59,7 @@ message: 6 da yattım 6:15 te kalktım postId: 6
 # Printing the social network ...
 # Number of profiles is 7:
 Printing the linked list ...
-firstname: BOLUMU lastname: EE email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: [1]
+firstname: bolumu lastname: ee email: EE_BOLUMU_MAILI@EEEEEEEEEEEEEEE.COM friends: [] likes: [] posts: [1]
 firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [] likes: [] posts: [3, 4]
 firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [] likes: [] posts: []
 firstname: ucoluk lastname: gokturk email: gokturk.ucoluk@metu.edu.tr friends: [] likes: [] posts: [5]

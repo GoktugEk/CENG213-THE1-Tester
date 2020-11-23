@@ -1,7 +1,7 @@
 import os
 import time
 
-NUM_OF_TESTCASE = 4
+NUM_OF_TESTCASE = 5
 wrong = 0
 wrong_tcs = []
 bar = NUM_OF_TESTCASE*10
@@ -51,6 +51,7 @@ for i in range(1,NUM_OF_TESTCASE+1):
 	print(str(percantage)+ "%",end='\r')
 
 os.system("rm *.o")
+os.system("rm a")
 print("\nYou failed " + str(wrong) + " times on "+str(NUM_OF_TESTCASE)+" testcases.")
 print("You failed on the cases: {}".format(wrong_tcs))
 t2 = time.time()
