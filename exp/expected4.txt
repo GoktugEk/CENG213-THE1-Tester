@@ -1,0 +1,42 @@
+# Printing the social network ...
+# Number of profiles is 0:
+Printing the linked list ...
+empty
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+
+# Printing the social network ...
+# Number of profiles is 0:
+Printing the linked list ...
+empty
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+
+# Printing the social network ...
+# Number of profiles is 4:
+Printing the linked list ...
+firstname: keles lastname: alperen email: alperen.keles@metu.edu.tr friends: [] likes: [] posts: []
+firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [] likes: [] posts: []
+firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [] likes: [] posts: []
+firstname: varli lastname: yigit email: yigit.varli@metu.edu.tr friends: [] likes: [] posts: []
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+
+2
+# Printing the social network ...
+# Number of profiles is 4:
+Printing the linked list ...
+firstname: keles lastname: alperen email: alperen.keles@metu.edu.tr friends: [goktug.ekinci@metu.edu.tr, goktug.ekinci@metu.edu.tr, yigit.varli@metu.edu.tr, gokcan.demiralp@metu.edu.tr] likes: [] posts: []
+firstname: demiralp lastname: gokcan email: gokcan.demiralp@metu.edu.tr friends: [goktug.ekinci@metu.edu.tr, alperen.keles@metu.edu.tr] likes: [] posts: []
+firstname: ekinci lastname: goktug email: goktug.ekinci@metu.edu.tr friends: [yigit.varli@metu.edu.tr, gokcan.demiralp@metu.edu.tr, alperen.keles@metu.edu.tr, alperen.keles@metu.edu.tr] likes: [] posts: []
+firstname: varli lastname: yigit email: yigit.varli@metu.edu.tr friends: [goktug.ekinci@metu.edu.tr, alperen.keles@metu.edu.tr] likes: [] posts: []
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
