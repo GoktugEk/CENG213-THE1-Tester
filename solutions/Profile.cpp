@@ -106,9 +106,7 @@ std::ostream &operator<<(std::ostream &os, const Profile &profile) {
 }
 
 bool Profile::operator==(const Profile &rhs) const {
-    if(rhs.firstname == this->firstname && rhs.lastname == this->lastname && rhs.email == this->email)
-        return true;
-    return false;
+    /* TODO */
 }
 
 bool Profile::operator!=(const Profile &rhs) const {
@@ -116,24 +114,7 @@ bool Profile::operator!=(const Profile &rhs) const {
 }
 
 bool Profile::operator<(const Profile &rhs) const {
-    int len1, len2;
-    len1 = this->lastname.length();
-    len2 = rhs.lastname.length();
-
-
-
-    for (int i = 0; i < len1 && i < len2; ++i) {
-        if ( this->lastname[i] < rhs.lastname[i]) return true;
-        else if (this->lastname[i] > rhs.lastname[i]) return false;
-    }
-    len1 = this->firstname.length();
-    len2 = rhs.firstname.length();
-    for (int i = 0; i < len1 && i < len2; ++i) {
-        if ( this->firstname[i] < rhs.firstname[i]) return true;
-        else if (this->firstname[i] > rhs.firstname[i]) return false;
-    }
-
-    return true;
+    /* TODO */
 }
 
 bool Profile::operator>(const Profile &rhs) const {

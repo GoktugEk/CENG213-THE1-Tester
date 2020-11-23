@@ -29,8 +29,7 @@ public:
     void print() const;
 
 private: // YOU MAY ADD YOUR OWN UTILITY MEMBER FUNCTIONS HERE.
-    Node<Profile>* getProfile(const std::string &email);
-    Node<Post>* getPost(const int postId);
+
 private:
     LinkedList<Profile> profiles;
     LinkedList<Post> posts;
