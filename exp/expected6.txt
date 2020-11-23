@@ -1,0 +1,103 @@
+# Printing the social network ...
+# Number of profiles is 0:
+Printing the linked list ...
+empty
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+# Printing the social network ...
+# Number of profiles is 1:
+Printing the linked list ...
+firstname: goktug lastname: ekinci email: goktug@ekinci.com friends: [] likes: [] posts: []
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+# Printing the social network ...
+# Number of profiles is 2:
+Printing the linked list ...
+firstname: ege lastname: b email: ege@b.com friends: [] likes: [] posts: []
+firstname: goktug lastname: ekinci email: goktug@ekinci.com friends: [] likes: [] posts: []
+# Number of posts is 0:
+Printing the linked list ...
+empty
+# Printing is done.
+# Printing the social network ...
+# Number of profiles is 2:
+Printing the linked list ...
+firstname: ege lastname: b email: ege@b.com friends: [] likes: [] posts: [2, 4]
+firstname: goktug lastname: ekinci email: goktug@ekinci.com friends: [] likes: [] posts: [1, 3]
+# Number of posts is 4:
+Printing the linked list ...
+message: Hello world! My name is goktug ekinci. postId: 1
+message: Oldu mu? postId: 2
+message: JOn ekinci postId: 3
+message: Sıkıntı ne postId: 4
+# Printing is done.
+# Printing the social network ...
+# Number of profiles is 3:
+Printing the linked list ...
+firstname: ege lastname: b email: ege@b.com friends: [h@kanbur.com, goktug@ekinci.com] likes: [1] posts: [2, 4]
+firstname: goktug lastname: ekinci email: goktug@ekinci.com friends: [ege@b.com] likes: [2, 4, 3] posts: [1, 3]
+firstname: gurkan lastname: kanbur email: h@kanbur.com friends: [ege@b.com] likes: [4, 3] posts: []
+# Number of posts is 4:
+Printing the linked list ...
+message: Hello world! My name is goktug ekinci. postId: 1
+message: Oldu mu? postId: 2
+message: JOn ekinci postId: 3
+message: Sıkıntı ne postId: 4
+# Printing is done.
+# Printing the social network ...
+# Number of profiles is 3:
+Printing the linked list ...
+firstname: ege lastname: b email: ege@b.com friends: [h@kanbur.com, goktug@ekinci.com] likes: [1] posts: [2, 4]
+firstname: goktug lastname: ekinci email: goktug@ekinci.com friends: [ege@b.com] likes: [2, 4] posts: [1, 3]
+firstname: gurkan lastname: kanbur email: h@kanbur.com friends: [ege@b.com] likes: [4, 3] posts: []
+# Number of posts is 4:
+Printing the linked list ...
+message: Hello world! My name is goktug ekinci. postId: 1
+message: Oldu mu? postId: 2
+message: JOn ekinci postId: 3
+message: Sıkıntı ne postId: 4
+# Printing is done.
+# Printing the social network ...
+# Number of profiles is 4:
+Printing the linked list ...
+firstname: ege lastname: b email: ege@b.com friends: [h@kanbur.com, goktug@ekinci.com, erenbuyukbas@metu.com] likes: [1] posts: [2, 4]
+firstname: eren lastname: buyukbas email: erenbuyukbas@metu.com friends: [ege@b.com] likes: [2] posts: []
+firstname: goktug lastname: ekinci email: goktug@ekinci.com friends: [ege@b.com] likes: [2, 4] posts: [1, 3]
+firstname: gurkan lastname: kanbur email: h@kanbur.com friends: [ege@b.com] likes: [4, 3] posts: []
+# Number of posts is 4:
+Printing the linked list ...
+message: Hello world! My name is goktug ekinci. postId: 1
+message: Oldu mu? postId: 2
+message: JOn ekinci postId: 3
+message: Sıkıntı ne postId: 4
+# Printing is done.
+İlk Ortak Arkadaş : goktug@ekinci.com
+# Printing the social network ...
+# Number of profiles is 4:
+Printing the linked list ...
+firstname: ege lastname: b email: ege@b.com friends: [h@kanbur.com, goktug@ekinci.com, erenbuyukbas@metu.com] likes: [1] posts: [2, 4]
+firstname: eren lastname: buyukbas email: erenbuyukbas@metu.com friends: [ege@b.com, goktug@ekinci.com, h@kanbur.com] likes: [2] posts: []
+firstname: goktug lastname: ekinci email: goktug@ekinci.com friends: [ege@b.com, erenbuyukbas@metu.com] likes: [2, 4] posts: [1, 3]
+firstname: gurkan lastname: kanbur email: h@kanbur.com friends: [ege@b.com, erenbuyukbas@metu.com] likes: [4, 3] posts: []
+# Number of posts is 4:
+Printing the linked list ...
+message: Hello world! My name is goktug ekinci. postId: 1
+message: Oldu mu? postId: 2
+message: JOn ekinci postId: 3
+message: Sıkıntı ne postId: 4
+# Printing is done.
+# Printing the social network ...
+# Number of profiles is 3:
+Printing the linked list ...
+firstname: ege lastname: b email: ege@b.com friends: [h@kanbur.com, erenbuyukbas@metu.com] likes: [] posts: [2, 4]
+firstname: eren lastname: buyukbas email: erenbuyukbas@metu.com friends: [ege@b.com, h@kanbur.com] likes: [2] posts: []
+firstname: gurkan lastname: kanbur email: h@kanbur.com friends: [ege@b.com, erenbuyukbas@metu.com] likes: [4] posts: []
+# Number of posts is 2:
+Printing the linked list ...
+message: Oldu mu? postId: 2
+message: Sıkıntı ne postId: 4
+# Printing is done.

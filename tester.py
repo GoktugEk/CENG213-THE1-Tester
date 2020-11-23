@@ -1,11 +1,12 @@
 import os
 import time
 
-NUM_OF_TESTCASE = 5
+NUM_OF_TESTCASE = len(os.listdir("tc/")) -1
 wrong = 0
 wrong_tcs = []
 bar = NUM_OF_TESTCASE*10
 t1 = time.time()
+
 
 ops = ["solutions/SocialNetwork.cpp","solutions/Post.cpp", "solutions/Profile.cpp"]
 
